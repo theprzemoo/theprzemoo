@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-     ██████╗ ██████╗ ███████╗███████╗███╗   ███╗ ██████╗  ██████╗
-     ██╔══██╗██╔══██╗╚══███╔╝██╔════╝████╗ ████║██╔═══██╗██╔═══██╗
-     ██████╔╝██████╔╝  ███╔╝ █████╗  ██╔████╔██║██║   ██║██║   ██║
-     ██╔═══╝ ██╔══██╗ ███╔╝  ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║
-     ██║     ██║  ██║███████╗███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝
-     ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝
+██████╗ ██████╗ ███████╗███████╗███╗   ███╗ ██████╗  ██████╗
+██╔══██╗██╔══██╗╚══███╔╝██╔════╝████╗ ████║██╔═══██╗██╔═══██╗
+██████╔╝██████╔╝  ███╔╝ █████╗  ██╔████╔██║██║   ██║██║   ██║
+██╔═══╝ ██╔══██╗ ███╔╝  ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║
+██║     ██║  ██║███████╗███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=BF00FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%2F+Web+Developer+%2F+IT+Specialist;Cybersecurity+%2F+Server+Infrastructure;always+improving.)](https://git.io/typing-svg)
@@ -88,11 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprzemoo&show_icons=true&theme=tokyonight&bg_color=000000&border_color=BF00FF&title_color=BF00FF&text_color=888888&icon_color=BF00FF&hide_border=false&rank_icon=github&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprzemoo&layout=compact&theme=tokyonight&bg_color=000000&border_color=BF00FF&title_color=BF00FF&text_color=888888&hide_border=false&langs_count=6" height="160"/>
 
-<br/><br/>
 
 ![Streak](https://streak-stats.demolab.com?user=theprzemoo&theme=tokyonight&background=000000&border=BF00FF&ring=BF00FF&fire=ffffff&currStreakLabel=BF00FF&sideLabels=888888&dates=555555&stroke=BF00FF)
 
