@@ -1,94 +1,117 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Przemo+%F0%9F%96%A4;AI+Engineer+%7C+Web+Developer;IT+Specialist+%7C+CS2+Polish+Talent)](https://git.io/typing-svg)
+```
+██████╗ ██████╗ ███████╗███████╗███╗   ███╗ ██████╗  ██████╗
+██╔══██╗██╔══██╗╚══███╔╝██╔════╝████╗ ████║██╔═══██╗██╔═══██╗
+██████╔╝██████╔╝  ███╔╝ █████╗  ██╔████╔██║██║   ██║██║   ██║
+██╔═══╝ ██╔══██╗ ███╔╝  ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║
+██║     ██║  ██║███████╗███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=BF00FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%2F+Web+Developer+%2F+IT+Specialist;Cybersecurity+%2F+Server+Infrastructure;always+improving.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Socials -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-przemyslawdamaz.pl-black?style=for-the-badge&logo=googlechrome&logoColor=white)](http://przemyslawdamaz.pl)
-[![X](https://img.shields.io/badge/X-@theprzemoo__-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theprzemoo_)
-[![Instagram](https://img.shields.io/badge/Instagram-@theprzemoo__-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theprzemoo_/)
-[![Steam](https://img.shields.io/badge/Steam-theprzemoo-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/theprzemoo)
+![](https://img.shields.io/badge/17%20y%2Fo%20·%20Rawa%20Mazowiecka%2C%20PL-000?style=flat-square&logo=googlemaps&logoColor=BF00FF)
+&nbsp;
+![](https://img.shields.io/badge/IT%20Student%20·%20Technik%20Informatyk-000?style=flat-square&logo=graduation-cap&logoColor=BF00FF)
+&nbsp;
+![](https://img.shields.io/badge/open%20to%20work-000?style=flat-square&logo=statuspage&logoColor=BF00FF)
 
 </div>
 
----
+<br/>
 
-## 🖤 About Me
+<div align="center"><img src="https://raw.githubusercontent.com/theprzemoo/theprzemoo/main/wave.svg" width="100%"/></div>
 
-```python
-przemek = {
-    "location":   "Rawa Mazowiecka, Poland 🇵🇱",
-    "roles":      ["AI Engineer", "Web Developer", "IT Specialist"],
-    "currently":  "Building PyGenPass → standalone .exe",
-    "fun_fact":   "CS2 Polish Talent 🎮",
-}
-```
+<br/>
 
----
+## ◈ About
 
-## 🛠️ Tech Stack
+> I'm a 17-year-old developer from Poland building web apps, AI integrations and managing server infrastructure. IT student since 2012 — started with Minecraft servers, now shipping real products. I believe the future belongs to those who know how to work with AI effectively.
+
+**PL** · **EN** · **RU**
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/theprzemoo/theprzemoo/main/wave.svg" width="100%"/></div>
+
+<br/>
+
+## ◈ Tech Stack
 
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+**Web Development**
 
-<!-- Tools & Frameworks -->
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=BF00FF)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=BF00FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=BF00FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=BF00FF)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=BF00FF)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=BF00FF)
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=BF00FF)
+![Claude](https://img.shields.io/badge/Claude_AI-000?style=for-the-badge&logo=anthropic&logoColor=BF00FF)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=BF00FF)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=BF00FF)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=BF00FF)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=BF00FF)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=BF00FF)
+
+
+**IT & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=BF00FF)
+![Kali](https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=BF00FF)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=BF00FF)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=BF00FF)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=BF00FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=BF00FF)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=BF00FF)
 
 </div>
 
----
+<br/>
 
-## 📌 Featured Projects
+<div align="center"><img src="https://raw.githubusercontent.com/theprzemoo/theprzemoo/main/wave.svg" width="100%"/></div>
+
+<br/>
+
+## ◈ GitHub Stats
 
 <div align="center">
 
-[![PyGenPass](https://github-readme-stats.vercel.app/api/pin/?username=theprzemoo&repo=PyGenPass&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/theprzemoo/PyGenPass)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=theprzemoo&repo=przemyslawdamaz.github.io&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/theprzemoo/przemyslawdamaz.github.io)
+<img src="https://github-readme-stats.vercel.app/api?username=theprzemoo&show_icons=true&theme=tokyonight&bg_color=000000&border_color=BF00FF&title_color=BF00FF&text_color=888888&icon_color=BF00FF&hide_border=false&rank_icon=github&include_all_commits=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprzemoo&layout=compact&theme=tokyonight&bg_color=000000&border_color=BF00FF&title_color=BF00FF&text_color=888888&hide_border=false&langs_count=6" height="160"/>
+
+<br/><br/>
+
+![Streak](https://streak-stats.demolab.com?user=theprzemoo&theme=tokyonight&background=000000&border=BF00FF&ring=BF00FF&fire=ffffff&currStreakLabel=BF00FF&sideLabels=888888&dates=555555&stroke=BF00FF)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<div align="center"><img src="https://raw.githubusercontent.com/theprzemoo/theprzemoo/main/wave.svg" width="100%"/></div>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprzemoo&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprzemoo&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa&hide_border=false" height="165"/>
-
-</div>
+## ◈ Find Me
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=theprzemoo&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa)
-
-</div>
-
----
-
-<!-- Snake -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/theprzemoo/theprzemoo/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-*🖤 kyousuke <3*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=BF00FF)](http://przemyslawdamaz.pl)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=BF00FF)](https://x.com/theprzemoo_)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=BF00FF)](https://www.instagram.com/theprzemoo_/)
+[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=BF00FF)](https://steamcommunity.com/id/theprzemoo)
+[![guns.lol](https://img.shields.io/badge/guns.lol-000?style=for-the-badge&logoColor=BF00FF)](https://guns.lol/theprzemoo_)
 
 </div>
