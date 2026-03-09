@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/IT%20Student%20·%20Technik%20Informatyk-000?style=flat-square&logo=graduation-cap&logoColor=BF00FF)
 &nbsp;
 ![](https://img.shields.io/badge/open%20to%20work-000?style=flat-square&logo=statuspage&logoColor=BF00FF)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=theprzemoo&style=flat-square&color=BF00FF&label=profile+views&base=0)
 
 </div>
 
@@ -90,7 +92,7 @@
 
 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=theprzemoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theprzemoo&bg_color=000000&color=BF00FF&line=BF00FF&point=ffffff&area=true&area_color=BF00FF&hide_border=false&border_color=BF00FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
