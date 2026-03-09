@@ -90,6 +90,10 @@
 
 
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=theprzemoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 ![Streak](https://streak-stats.demolab.com?user=theprzemoo&theme=tokyonight&background=000000&border=BF00FF&ring=BF00FF&fire=ffffff&currStreakLabel=BF00FF&sideLabels=888888&dates=555555&stroke=BF00FF)
 
 </div>
