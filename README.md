@@ -34,7 +34,7 @@
 > I'm a 17-year-old developer from Poland building web apps, AI integrations and managing server infrastructure. IT student since 2012 — started with Minecraft servers, now shipping real products. I believe the future belongs to those who know how to work with AI effectively.
 
 ```
-PL, EN, RU - I can communicate in these languages :)                        [or at least that's what it seems to me]
+PL, EN, RU - I can communicate in these languages :)                            [or at least that's what it seems to me]
 ```
 
 <br/>
